@@ -1,0 +1,11 @@
+I'm seeking a skilled web developer to create a dynamic order page for my business that allows customers to purchase custom physical products. 
+This page must capture specific order details including a photo upload feature and an integrated payment solution. 
+Key Features and Requirements: 
+- **Photo Upload:** A user-friendly interface for customers to upload a photo which will be printed on the product. 
+- **Order Details:** Fields for product specifications such as size, color, and any personalization. 
+- **Customer Data Collection:** Forms to collect essential customer contact and payment information securely. 
+- **Integrated Payment:** An integrated payment system for immediate and secure transaction processing. 
+- **Automatic Email:** System to auto-generate and send detailed order information to the supplier upon order completion. 
+- **User Experience:** A clean, intuitive design optimized for both desktop and mobile use.  
+
+Ideal Skills and Experience: - Proficiency in web development (HTML, CSS, JS, etc.) - Experience with e-commerce platforms and payment integration (Stripe, PayPal, etc.) - Strong understanding of UI/UX design principles - Ability to set up a secure, user-friendly file upload system - Knowledge of backend development for automated emails - Familiarity with responsive web design  Bringing this project to life requires a developer who is attentive to detail, values user experience, and understands the importance of secure payment handling. If you have a portfolio demonstrating similar projects, I look forward to discussing how we can collaborate on this innovative ordering page.

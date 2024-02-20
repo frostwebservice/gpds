@@ -1,0 +1,3 @@
+//purelymail.com
+in account page, sending restriction mode, make a new policy into any props.
+And in mail.php file, change from property into your credentials email registered in purelymail.com
